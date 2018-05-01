@@ -33,3 +33,8 @@ This script will install the library we used to make the google maps visualizati
 Load jupyter extension:
 jupyter nbextension enable --py --sys-prefix gmaps
 This script will load the jupyter extension required to view the google map visualizations inside jupyter notebook.
+
+#### poea_dataset.txt
+Original dataset pulled from the Philippines Overseas Employment Administration website
+
+#### All folders contain CSV files created during data analysis. Running the Jupyter Notebook files will create those CSV files.
