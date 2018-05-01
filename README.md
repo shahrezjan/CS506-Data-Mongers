@@ -1,5 +1,5 @@
 # CS506-Data-Mongers
-CS506 Project 
+## Project Files
 
 #### Data_Exploration.ipynb
 This file was used as part of our initial data exploratory analysis. The script begins by parsing our data and converting it to a dataframe, where missing fields were replaced with “None” and additional boolean columns were added to indicate if a particular contact field was missing.
