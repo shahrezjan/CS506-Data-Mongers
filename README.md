@@ -1,4 +1,6 @@
-# CS506-Data-Mongers
+# The Slavery-Free Supply Chains Project
+### Sameena Bajwa, Megan Fantes, William Ieong, Shahrez Jan
+
 ## Project Files
 
 #### Data_Exploration.ipynb
