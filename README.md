@@ -4,7 +4,7 @@ CS506 Project
 #### Data_Exploration.ipynb
 This file was used as part of our initial data exploratory analysis. The script begins by parsing our data and converting it to a dataframe, where missing fields were replaced with “None” and additional boolean columns were added to indicate if a particular contact field was missing.
 
-#### We used this dataframe to create a couple of bar graphs to observe some interesting findings including the distribution of license violation types and the distribution of missing contact information. Additionally, we found information regarding any ownership groups that may exist and how many violations they have obtained. 
+We used this dataframe to create a couple of bar graphs to observe some interesting findings including the distribution of license violation types and the distribution of missing contact information. Additionally, we found information regarding any ownership groups that may exist and how many violations they have obtained. 
 
 Since we decided to perform logistic regression based on the distribution of missing contact information, we later added the regression code into this file. 
 
