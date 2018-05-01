@@ -1,5 +1,6 @@
 # The Slavery-Free Supply Chains Project
 ### Sameena Bajwa, Megan Fantes, William Ieong, Shahrez Jan
+### Project Partner: Verite
 
 ## Project Files
 
